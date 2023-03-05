@@ -1,6 +1,8 @@
 # Hub tools
 
 ![](https://i.imgur.com/8rOsH4r.png)
+
+<hr>
 This project was created to facilitate and perform some repetitive tasks that can end up taking a lot of time throughout the day, in addition to reducing the amount of terminals and other open windows.
 
 ## Features:
@@ -14,8 +16,8 @@ This project was created to facilitate and perform some repetitive tasks that ca
 
 ### Home screen:
 
-<br />
-[![](https://i.imgur.com/SfOXmRr.png)](https://i.imgur.com/SfOXmRr.png)
+![](https://i.imgur.com/SfOXmRr.png)
+
 <hr>
 
 ### See prompt output:
