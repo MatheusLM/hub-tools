@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "title": "Scripts",
+      "separator": true
+    },
+    {
+      "title": "Execute shell",
+      "script": "./test.sh"
+    },
+    {
+      "title": "Git",
+      "separator": true
+    },
+    {
+      "title": "Pull repository",
+      "command": "cd src/.. && git pull"
+    },
+    {
+      "title": "Links",
+      "separator": true
+    },
+    {
+      "title": "Open chrome",
+      "url": "https://www.google.com/"
+    },
+    {
+      "title": "Folders",
+      "separator": true
+    },
+    {
+      "title": "Open Folder",
+      "folder": "explorer ."
+    },
+    {
+      "title": "Open file",
+      "folder": "start ./loader.png"
+    }
+  ]
+}
