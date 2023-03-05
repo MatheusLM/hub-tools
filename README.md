@@ -59,62 +59,50 @@ This file has all the information for the tool to work.
 
 #### Adding a separator:
 
-> {
-
+`{
       "title": "Separator title",
       "separator": true
-
-},
+},`
 
 #### Adding a new script:
 
-> {
-
+`{
        "title": "Script title",
        "script": "path to file"
-
-},
+},`
 
 #### Adding a new command:
 
-> {
-
+`{
         "title": "Command title",
        "command": "command 1 && command 2..."
-
-},
+},`
 
 #### Adding a new link:
 
-> {
-
+`{
         "title": "Url title",
        "url": "https://www.google.com/"
-
-},
+},`
 
 #### Adding a new folder:
 
-> {
-
+`{
         "title": "Folder title",
        "folder": "explorer ."
-
-},
+},`
 
 #### Adding a new file:
 
-> {
-
+`{
         "title": "File title",
        "folder": "start ./loader.png"
-
-}
+}`
 
 ## How to get the project:
 
 Make sure you have node installed, this is a dependency of this project. If you don't have it, just install it, following the steps on this site:
-https://nodejs.org/en/download/
+[Node](https://nodejs.org/en/download/ "Node")
 
 Open a terminal, navigate to the desired folder to save this project and use the command below:
 
