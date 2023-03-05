@@ -13,30 +13,32 @@ This project was created to facilitate and perform some repetitive tasks that ca
 
 ### Home screen:
 
+<br />
 ![](https://i.imgur.com/SfOXmRr.png)
-
 <hr>
 
 ### See prompt output:
 
 By clicking on "prompt" you will have access to the return of the files that are being executed, which were programmed to be in this button.
 see below:
+<br />
 ![](https://i.imgur.com/y8V6ehN.png)
 
 <hr>
 
 ### Perform action:
 
-To execute the action programmed for the button, just click on its title. In the case of the image below, "Execute shell" was clicked.
+To execute the action programmed for the button, just click on its title. In the case of the image below, **"Execute shell"** was clicked.
 Note that during the execution of the file, a loader will appear, which will remain running until the execution is finished.
+<br />
 ![](https://i.imgur.com/TLVuJK8.png)
 
 <hr>
 
 ### Results:
 
-When the file is finished executing, in case of success, the title of the button will change to green, and a green border will be added to it. In case of error, the same will happen, however, with the red color.
-
+When the file is finished executing, in case of success, the title of the button will change to _green_, and a _green_ border will be added to it. In case of error, the same will happen, however, with the _red_ color.
+<br />
 ![](https://i.imgur.com/WCcWaII.png)
 
 <hr>
@@ -45,6 +47,7 @@ When the file is finished executing, in case of success, the title of the button
 
 When you click close the window, the application will be minimized to your operating system's task tray.
 To open it again, just click once on the icon, or right-click and select the **"Show App"** option.
+<br />
 ![](https://i.imgur.com/wPJPpHs.png)
 
 <hr>
@@ -54,7 +57,7 @@ To open it again, just click once on the icon, or right-click and select the **"
 When you open the project folder you will find a file called **"config.json"**.
 This file has all the information for the tool to work.
 
-#### Adding a seaparator:
+#### Adding a separator:
 
 > {
 
