@@ -117,6 +117,6 @@ Upon completion, use:
 
 After installing all project dependencies, just start it:
 
-> npm start
+> npm run build && npm start
 
 ###### _I hope you enjoy_
